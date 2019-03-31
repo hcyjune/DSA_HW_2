@@ -1,2 +1,3 @@
 # DSA_HW_2
-Sorting
+Sort a transaction data by several indices (ex. dailycaps, currency, exchange).  
+When given a query, output its complete data.
